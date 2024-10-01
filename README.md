@@ -18,6 +18,14 @@ Este é um projeto de uma loja de hardware, contendo um site para clientes e uma
 
 Para iniciar o projeto, você pode usar os seguintes comandos:
 
+## Comandos utilizados (git bash)
+
+git clone 
+git add .
+git commit -m "txt"
+git push -u origin branch
+git pull origin branch
+
 ```bash
 # Para iniciar o servidor de desenvolvimento (substitua 'npm start' pelo comando apropriado)
 cd frontend

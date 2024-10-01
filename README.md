@@ -12,7 +12,7 @@ Este é um projeto de uma loja de hardware, contendo um site para clientes e uma
 
 ## Tecnologias Utilizadas
 
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript, php
 
 ## Comandos Usados
 
